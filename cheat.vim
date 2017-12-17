@@ -89,6 +89,9 @@ esc
     
  run command from vim
     :command
+    or 
+    :terminal
+
    
   
 open multiple files in tabs : vim -p file1 file 2 ...
