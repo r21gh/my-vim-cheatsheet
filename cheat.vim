@@ -97,3 +97,4 @@ set tab indent to 4 :
    
   
 open multiple files in tabs : vim -p file1 file 2 ...
+
