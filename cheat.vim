@@ -92,9 +92,10 @@ esc
     or 
     :terminal
 
-set tab indent to 4 :
+set tab indent to 4 : 
   :set tabstop=4
    
   
 open multiple files in tabs : vim -p file1 file 2 ...
+
 
