@@ -71,6 +71,7 @@ esc
   bookmarks:
     :marks
   
+  
   spliting
     :split filename  - split window horizontally and load filename
     :vsplit file     - vertical split and open file
