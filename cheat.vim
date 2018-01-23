@@ -3,6 +3,7 @@ esc
   :d => delete line
   :% => going to move the cursor to the end of the matching brace
   :w => write those changes safely
+  :wa => save tab without quit
   :q => quit
   :q! => ignore save and quit
   :tabedit => open new tab
